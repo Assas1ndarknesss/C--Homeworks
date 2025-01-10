@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.sourcelink.json
+C:\Users\DELL\Desktop\C#Homeworks\6_10\bin\Debug\net9.0\6_10.exe
+C:\Users\DELL\Desktop\C#Homeworks\6_10\bin\Debug\net9.0\6_10.deps.json
+C:\Users\DELL\Desktop\C#Homeworks\6_10\bin\Debug\net9.0\6_10.runtimeconfig.json
+C:\Users\DELL\Desktop\C#Homeworks\6_10\bin\Debug\net9.0\6_10.dll
+C:\Users\DELL\Desktop\C#Homeworks\6_10\bin\Debug\net9.0\6_10.pdb
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.dll
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\refint\6_10.dll
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.pdb
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\6_10.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#Homeworks\6_10\obj\Debug\net9.0\ref\6_10.dll

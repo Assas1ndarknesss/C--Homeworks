@@ -1,11 +1,18 @@
-﻿ int a=Convert.ToInt32(Console.ReadLine())
-  int cnt=0;
-  int rev=0;
-    for (int i=1;i<=a;i++){
-        for(int j=i;j>0;j/=10) {
-            rev=rev*10+j%10;
-        }if (i==rev){
-            Console.WriteLine("")
-        }
+﻿string a = Console.ReadLine();
+void pl(string n)
+{
+    string r = "";
+    for (int i = n.Length - 1; i >= 0; i--)
+    {
+        r += n[i];
     }
-    
+    if (n == r)
+    {
+        Console.WriteLine("Палиндром: Да");
+    }
+    else
+    {
+        Console.WriteLine("Палиндром: Нет");
+    }
+}
+pl(a);

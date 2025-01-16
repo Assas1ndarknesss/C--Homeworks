@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\bin\Debug\net9.0\3_4.exe
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\bin\Debug\net9.0\3_4.deps.json
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\bin\Debug\net9.0\3_4.runtimeconfig.json
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\bin\Debug\net9.0\3_4.dll
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\bin\Debug\net9.0\3_4.pdb
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.sourcelink.json
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.dll
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\refint\3_4.dll
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.pdb
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\3_4.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#home\week_2\Homework6\3_4\obj\Debug\net9.0\ref\3_4.dll

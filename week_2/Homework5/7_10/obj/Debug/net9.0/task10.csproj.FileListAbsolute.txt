@@ -1,0 +1,29 @@
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\bin\Debug\net9.0\task10.exe
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\bin\Debug\net9.0\task10.deps.json
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\bin\Debug\net9.0\task10.runtimeconfig.json
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\bin\Debug\net9.0\task10.dll
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\bin\Debug\net9.0\task10.pdb
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.AssemblyInfoInputs.cache
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.AssemblyInfo.cs
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.dll
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\refint\task10.dll
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.pdb
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\task10.genruntimeconfig.cache
+C:\Users\PRIME TECHNOLOGY\Desktop\c#\Home Works\Home Work5\task10\obj\Debug\net9.0\ref\task10.dll
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\bin\Debug\net9.0\task10.exe
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\bin\Debug\net9.0\task10.deps.json
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\bin\Debug\net9.0\task10.runtimeconfig.json
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\bin\Debug\net9.0\task10.dll
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\bin\Debug\net9.0\task10.pdb
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.sourcelink.json
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.dll
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\refint\task10.dll
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.pdb
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\task10.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#home\Homework5\7_10\obj\Debug\net9.0\ref\task10.dll

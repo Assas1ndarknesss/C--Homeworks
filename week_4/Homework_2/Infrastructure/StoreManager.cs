@@ -16,20 +16,16 @@ public class StoreManager
         }
     }
 
-    public void GetProductByName(string name)
+    public Product GetProductByName(string name)
     {
         foreach (var item in Products)
         {
             if (item.GetName() == name)
             {
-                System.Console.WriteLine($"Name: {item.GetName}, Price: {item.GetPrice}");
-                System.Console.WriteLine($"Quantity: {item.GetQuantity}");
-            }
-            else
-            {
-                System.Console.WriteLine("Don't finden");
+                return item;
             }
         }
+        return new Product();
     }
 
     public void RemoveProductByName(string name)
@@ -39,6 +35,7 @@ public class StoreManager
             if (item.GetName() == name)
             {
                 Products.Remove(item);
+                System.Console.WriteLine("Product succselfully deleted");
             }
             else
             {
@@ -50,24 +47,25 @@ public class StoreManager
 
     public List<Product> GetProductsByPriceRange(double min, double max)
     {
-      List<Product> result = new List<Product>();
-      foreach (var item in Products)
-      {
-        if (item.GetPrice()>=min && item.GetPrice()<=max)
-        {
-             result.Add(item);
-        }
-      }
-      return result;
-    }
-
-    public void GetAvailableProduct(){
+        List<Product> result = new List<Product>();
         foreach (var item in Products)
         {
-         if (item.GetQuantity()>0)
-         {
-            System.Console.WriteLine(item);
-         }   
+            if (item.GetPrice() >= min && item.GetPrice() <= max)
+            {
+                result.Add(item);
+            }
+        }
+        return result;
+    }
+
+    public void GetAvailableProduct()
+    {
+        foreach (var item in Products)
+        {
+            if (item.GetQuantity() > 0)
+            {
+                System.Console.WriteLine(item);
+            }
         }
     }
 

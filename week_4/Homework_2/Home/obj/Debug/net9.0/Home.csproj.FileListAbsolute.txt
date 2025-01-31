@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C#home\week_4\Homework_2\Home\obj\Debug\net9.0\Home.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#home\week_4\Homework_2\Home\obj\Debug\net9.0\Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#home\week_4\Homework_2\Home\obj\Debug\net9.0\Home.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#home\week_4\Homework_2\Home\obj\Debug\net9.0\Home.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#home\week_4\Homework_2\Home\obj\Debug\net9.0\Home.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#home\week_4\Homework_2\Home\obj\Debug\net9.0\Home.sourcelink.json

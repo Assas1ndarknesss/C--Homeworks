@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Infrastructure.dll": {}
         }
+      },
+      "OnlineStoreApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OnlineStoreApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineStoreApp.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../Infrastructure/Infrastructure.csproj",
       "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
+    "OnlineStoreApp/1.0.0": {
+      "type": "project",
+      "path": "../OnlineStoreApp/OnlineStoreApp.csproj",
+      "msbuildProject": "../OnlineStoreApp/OnlineStoreApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Infrastructure >= 1.0.0"
+      "Infrastructure >= 1.0.0",
+      "OnlineStoreApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +72,9 @@
           "projectReferences": {
             "C:\\Users\\DELL\\Desktop\\C#home\\week_4\\Homework_2\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "C:\\Users\\DELL\\Desktop\\C#home\\week_4\\Homework_2\\Infrastructure\\Infrastructure.csproj"
+            },
+            "C:\\Users\\DELL\\Desktop\\C#home\\week_4\\Homework_2\\OnlineStoreApp\\OnlineStoreApp.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\C#home\\week_4\\Homework_2\\OnlineStoreApp\\OnlineStoreApp.csproj"
             }
           }
         }

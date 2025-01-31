@@ -1,10 +1,12 @@
 namespace Infrastructure;
 
-public class Order : Product
+public class Order 
 {
     string CumtomerName;
     List<Product> products = new List<Product>();
-
+   public Order (string name){
+    this.CumtomerName=name;
+   }
     public void GetTotalAmount(string name)
     {
         double sum = 0;
@@ -18,4 +20,5 @@ public class Order : Product
         products.Add(product);
         
     }
+
 }

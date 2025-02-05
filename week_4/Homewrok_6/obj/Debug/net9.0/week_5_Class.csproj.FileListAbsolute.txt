@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\bin\Debug\net9.0\week_5_Class.exe
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\bin\Debug\net9.0\week_5_Class.deps.json
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\bin\Debug\net9.0\week_5_Class.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\bin\Debug\net9.0\week_5_Class.dll
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\bin\Debug\net9.0\week_5_Class.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.sourcelink.json
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.dll
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\refint\week_5_Class.dll
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\week_5_Class.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\Class.practic\week_5_Class\obj\Debug\net9.0\ref\week_5_Class.dll

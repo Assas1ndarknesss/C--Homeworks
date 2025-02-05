@@ -46,7 +46,7 @@ public static class Math
         {
             System.Console.WriteLine($"Kвадрат чисел: {num[i]} = {num[i] * num[i]}");
         }
-
+        
     }
 
     public static void AverageOfNums(params int[] num)
@@ -116,6 +116,7 @@ public static class Math
 
     public static void FactorialOfNumbers(params int[] num)
     {
+     int sum=0;   
         foreach (var item in num)
         {
             int sumofnums = 1;
@@ -123,8 +124,9 @@ public static class Math
             {
                 sumofnums *= i;
             }
-            System.Console.WriteLine($"Факториал чисел: {sumofnums}");
+            sum=sumofnums;
         }
+            System.Console.WriteLine($"Факториал чисел: {sum}");
     }
 
 }
